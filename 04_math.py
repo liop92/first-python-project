@@ -1,0 +1,10 @@
+a = int(input("Choose a first number, please. "))
+b = int(input("Choose the second number, please. "))
+
+print(a + b)
+print(a - b)
+print(a * b)
+print(a / b)
+print(a // b)
+print(a % b)
+print(a ** b)
